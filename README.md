@@ -1,4 +1,4 @@
-### Hi there, I'm Martin 👋
+### <p style="text-align: center;">Hi there, I'm Martin 👋</p>
 #### I love Python and Linux. Programming is my passion. Feel free to check out my projects. See you! 😄
 
 - 🌱 I’m currently learning Python.
