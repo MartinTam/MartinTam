@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Martin 👋
+#### I love Python and Linux. Programming is my passion. Feel free to check out my projects. See you! 😄
+
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on open source projects.
 
 <!--
 **MartinTam/MartinTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
