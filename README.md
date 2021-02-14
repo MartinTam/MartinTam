@@ -1,4 +1,4 @@
-### <div align="center">Hi there, I'm Martin 👋</div>
+### <div align="center">Hi, I'm Martin 👋</div>
 #### <div align="center">I love Python and Linux. Programming is my passion. Feel free to check out my projects. See you! 😄</div>
 
 <!--
