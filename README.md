@@ -1,5 +1,5 @@
 ### <div align="center">Hi, I'm Martin 👋</div>
-#### <div align="center">I love Python and Linux. Programming is my passion. Feel free to check out my projects. See you! 😄</div>
+#### <div align="center">I love Web Development, Python and Linux. Programming is my passion. Feel free to check out my projects. See you! 😄</div>
 
 <!--
 **MartinTam/MartinTam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
